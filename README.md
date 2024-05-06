@@ -15,9 +15,8 @@ In collaboration with experts from NIST and Georgetown University, this project 
 
 ## Repository Structure
 - final_presentation.Rmd: R Markdown document containing the complete analysis.
-- data/: Directory containing raw data files used in the analysis.
 - scripts/: R scripts for data processing and analysis.
-- images/: Directory with visualizations and diagrams.
+
 
 ## Getting Started
 ### Prerequisites
