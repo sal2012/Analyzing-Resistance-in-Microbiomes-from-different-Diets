@@ -14,8 +14,9 @@ In collaboration with experts from NIST and Georgetown University, this project 
 - What common organisms have AMR genes across both diets?
 
 ## Repository Structure
-- final_presentation.Rmd: R Markdown document containing the complete analysis.
+- R_markdown.rmd: R Markdown document containing the complete analysis.
 - scripts/: R scripts for data processing and analysis.
+- presentation: Have the presentation and figures for the project
 
 
 ## Getting Started
@@ -28,7 +29,7 @@ install.packages(c("ggplot2", "dplyr", "tidyverse", "knitr", "tidyr", "plotly", 
 
 ## Running the Analysis
 1. Clone the repository.
-2. Open the final_presentation.Rmd file in RStudio.
+2. Open the R_markdown.Rmd file in RStudio.
 3. Click "Knit" to generate the HTML document, which will execute all R code chunks and compile the analysis results.
 
 ## Visualizations
